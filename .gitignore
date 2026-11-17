@@ -1,0 +1,10 @@
+# R / RStudio temporäre Dateien
+Rplots.pdf
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+
+# Betriebssystem
+Thumbs.db
+desktop.ini
