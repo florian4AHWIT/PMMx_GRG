@@ -14,6 +14,7 @@ Ordner `4ahwit-x/`.
 | [`2026-09-22_sa00-was-kann-r/`](2026-09-22_sa00-was-kann-r/) | SA-00 „Was kann R?" — Betriebsdaten, Selbsttest, Inseln-Transfer |
 | [`2026-10-06_sa01-ggplot/`](2026-10-06_sa01-ggplot/) | SA-01 Datenvisualisierung mit ggplot2 (inkl. Plots) |
 | [`2026-11-10_rtooling/`](2026-11-10_rtooling/) | Betriebsdaten einlesen und als Excel ausgeben (`writexl`) |
+| [`2026-11-10_km7-02-chi-quadrat/`](2026-11-10_km7-02-chi-quadrat/) | KM7-02 Chi-Quadrat-Test — Unabhängigkeit, Anpassung, Transfer (inkl. `ergebnisse/`) |
 | [`2026-11-17_selbststudium-t-test/`](2026-11-17_selbststudium-t-test/) | KM7-01 z-/t-Test — Lösung + Feedback zur Lektion |
 
 Weiteres Material: [`Hausübungen/hü/hausaufgabe1.md`](Hausübungen/hü/hausaufgabe1.md),
